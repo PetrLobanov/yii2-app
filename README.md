@@ -1,5 +1,6 @@
 # Реализация
 ### Контроллер -  backend/controllers/AppleController.php
+### Валидация - backend/FormRequest/AppleRequest.php
 ### Модель - common/models/Apple.php
 ### Сервис - backend/Service/Apple.php
 ### Команда отвечающяя за гниение яблок (можно поместить в крон) console/controllers/CheckApplesController.php
